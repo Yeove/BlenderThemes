@@ -1,4 +1,4 @@
-Hello! This is where I post my Blender themes.
+Random Blender themes I made.
 Free free to tweak them as much as you want.
 
 
