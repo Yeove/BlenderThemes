@@ -1,5 +1,5 @@
 Hello! This is where I post my Blender themes.
-Free free to edit them as much as you want.
+Free free to tweak them as much as you want.
 
 
 ### Gold Theme
